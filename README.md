@@ -1,5 +1,5 @@
 
-### SKILLS
+### Skill
 <u>Styling</u>
 * Html
 * Css
@@ -17,7 +17,7 @@
 
 <br>
 
-### FRAMEWORKS
+### Frameworks
 <u>Frontend</u>
 * Angular
 
@@ -26,21 +26,21 @@
 
 <br>
 
-### PROJECTS
+### Projects
 
-**opinioned**
+**OPINIONED**
 
 Angular project with passing data between components, ActivatedRoute and searching/filtering with pipes.   <br />
 [visit repo](https://github.com/ivan-siljic/opinioned.git)
 
 
-**Sportradar**
+**SPORTRADAR**
 
 CRUD and filters in simple MVC pattern. The view is structured through templates, with basic UX standards applied.   <br />
 [visit repo](https://github.com/ivan-siljic/sportradar_coding_session.git)
 
 
-**bigevents**
+**BIGEVENTS**
 
 Symfony registration / login, with CRUD and filters for events. Bootstrapped UX-Design.   <br />
 [visit repo](https://github.com/ivan-siljic/bigevents.git)
