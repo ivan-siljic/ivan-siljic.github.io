@@ -1,7 +1,7 @@
 
-## Webdevelopement
+### Webdevelopement
 
-### SKILLS
+#### SKILLS
 <u>Styling</u>
 * Html
 * Css
@@ -19,7 +19,7 @@
 
 <br>
 
-### FRAMEWORKS
+#### FRAMEWORKS
 <u>Frontend</u>
 * Angular
 
@@ -28,7 +28,7 @@
 
 <br>
 
-### PROJECTS
+#### PROJECTS
 
 **opinioned**
 
