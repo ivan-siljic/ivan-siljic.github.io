@@ -1,3 +1,4 @@
+<img src="https://avatars.githubusercontent.com/u/70894067?s=400&v=4">
 
 ### SKILLS
 <u>Styling</u>
