@@ -1,22 +1,19 @@
-# IVAN SILJIC
-
-<br>
 
 ### SKILLS
-<u>Styling</u>
-* Html
-* Css
-* Sass
-* Twig
-* Bootstrap
+  <u>Styling</u>
+    * Html
+    * Css
+    * Sass
+    * Twig
+    * Bootstrap
 
-<u>Frontend</u>
-* Javascript
-* Typescript
+  <u>Frontend</u>
+    * Javascript
+    * Typescript
 
-<u>Backend</u>
-* MySQL
-* php
+  <u>Backend</u>
+    * MySQL
+    * php
 
 <br>
 
@@ -30,18 +27,24 @@
 <br>
 
 ### PROJECTS
-[opinioned](https://github.com/ivan-siljic/opinioned.git)
 
-Angular project with passing data between components, ActivatedRoute and searching/filtering with pipes.  <br>
+**opinioned**
+Angular project with passing data between components, ActivatedRoute and searching/filtering with pipes.
 
-
-
-[Sportradar](https://github.com/ivan-siljic/sportradar_coding_session.git)
-CRUD and filters in simple MVC pattern. The view is structured through templates, with basic UX standards applied.  <br>
+[visit repo](https://github.com/ivan-siljic/opinioned.git)   <br />
 
 
+**Sportradar**
 
-[bigevents](https://github.com/ivan-siljic/bigevents.git)
+CRUD and filters in simple MVC pattern. The view is structured through templates, with basic UX standards applied.
+
+[visit repo](https://github.com/ivan-siljic/sportradar_coding_session.git)   <br />
+
+
+**bigevents**
+
 Symfony registration / login, with CRUD and filters for events. Bootstrapped UX-Design.
+
+[visit repo](https://github.com/ivan-siljic/bigevents.git)
 
 
