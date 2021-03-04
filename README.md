@@ -1,31 +1,30 @@
 # IVAN SILJIC
 
 <br>
-<u>test</u>
 
 ### SKILLS
-__*Styling*__
+<u>Styling</u>
 * Html
 * Css
 * Sass
 * Twig
 * Bootstrap
 
-__*Frontend*__
+<u>Frontend</u>
 * Javascript
 * Typescript
 
-__*Backend*__
+<u>Backend</u>
 * MySQL
 * php
 
 <br>
 
 ### FRAMEWORKS
-__*Frontend*__
+<u>Frontend</u>
 * Angular
 
-__*Backend*__
+<u>Backend</u>
 * Symfony
 
 <br>
@@ -34,8 +33,8 @@ __*Backend*__
 __*opinioned*__
 
 Angular project with passing data between components, ActivatedRoute and searching/filtering with pipes.
+opinioned[https://github.com/ivan-siljic/opinioned.git]<br>
 
-https://github.com/ivan-siljic/opinioned.git<br>
 
 
 __*Sportradar*__
